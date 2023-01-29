@@ -31,9 +31,10 @@ num2=temp
 print("Swapped values are:",num1,num2)
 ```
 ## OUTPUT:
-![Screenshot (26)](https://user-images.githubusercontent.com/121369281/215309322-119ce86e-f97b-46e8-b42f-afc6226fe3ca.png)
 
 
+
+![Screenshot (26)](https://user-images.githubusercontent.com/121369281/215309363-304a058d-660c-4002-880f-0ffb8a2ec760.png)
 
 
 ## RESULT:
