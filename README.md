@@ -32,8 +32,9 @@ print("Swapped values are:",num1,num2)
 ```
 ## OUTPUT:
 
+![Screenshot (26)](https://user-images.githubusercontent.com/121369281/215309565-10a6c9f9-5740-4aa1-90c4-0fdd3c0abec3.png)
 
-![Swapping output](https://user-images.githubusercontent.com/121369281/215309504-2d836cd3-0ffa-45f9-b94f-19389ba86fe0.png)
+
 
 
 
